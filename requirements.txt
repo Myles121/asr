@@ -1,0 +1,6 @@
+tensorflow
+librosa
+numpy
+pandas
+pydub
+python-dotenv
